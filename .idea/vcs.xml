@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/helloci" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/student_Yuliya_Kharytovich/helloci" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/helloci/helloci" vcs="Git" />
+  </component>
+</project>
